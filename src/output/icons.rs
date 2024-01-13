@@ -414,6 +414,7 @@ const EXTENSION_ICONS: Map<&'static str, char> = phf_map! {
     "docx"           => Icons::DOCUMENT,         // 
     "dot"            => '\u{f1049}',             // 󱁉
     "download"       => Icons::DOWNLOAD,         // 󰇚
+    "dockerfile"     => Icons::DOCKER,           // 
     "drawio"         => '\u{ebba}',              // 
     "dump"           => Icons::DATABASE,         // 
     "dvi"            => Icons::IMAGE,            // 
