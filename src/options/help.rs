@@ -27,6 +27,7 @@ DISPLAY OPTIONS
   --no-quotes                don't quote file names with spaces
   --hyperlink                display entries as hyperlinks
   -w, --width COLS           set screen width in columns
+  --json                     output results in JSON format equivalent to long view
 
 
 FILTERING AND SORTING OPTIONS
