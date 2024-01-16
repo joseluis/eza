@@ -95,6 +95,7 @@ eza’s options are almost, but not quite, entirely unlike `ls`’s.
 - **--icons=(when)**: when to display icons (always, auto, never)
 - **--hyperlink**: display entries as hyperlinks
 - **-w**, **--width=(columns)**: set screen width in columns
+- **--json**: output results in JSON format (equivalent to `--long`)
 
 ### Filtering options
 

@@ -39,6 +39,7 @@ complete -c eza -l icons -d "When to display icons" -x -a "
 complete -c eza -l no-quotes -d "Don't quote file names with spaces"
 complete -c eza -l hyperlink -d "Display entries as hyperlinks"
 complete -c eza -l smart-group -d "Only show group if it has a different name from owner"
+complete -c eza -l json -d "Output results in JSON format (equivalent to --long)"
 
 # Filtering and sorting options
 complete -c eza -l group-directories-first -d "Sort directories before other files"

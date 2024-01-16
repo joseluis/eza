@@ -196,3 +196,5 @@ commands:
     - --extended
   ? - -Z
     - --context
+  ? - null
+    - --json
